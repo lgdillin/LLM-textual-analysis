@@ -1,0 +1,9 @@
+FROM llama3
+
+# sets the temperature
+# [higher is more creative, lower is more coherent]
+PARAMETER temperature 0.8
+
+PARAMETER seed 42
+
+SYSTEM You are a reporter who can accurately read and report information from a text.

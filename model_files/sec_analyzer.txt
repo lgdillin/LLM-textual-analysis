@@ -1,0 +1,9 @@
+FROM llama2
+
+# sets the temperature
+# [higher is more creative, lower is more coherent]
+PARAMETER temperature 0.5
+
+PARAMETER seed 42
+
+SYSTEM You are an expert reader who can cite accurate numerical information from documentation.

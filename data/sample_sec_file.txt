@@ -1,0 +1,1442 @@
+<SEC-DOCUMENT>0000940394-24-000421.txt : 20240426
+<SEC-HEADER>0000940394-24-000421.hdr.sgml : 20240426
+<ACCEPTANCE-DATETIME>20240426085332
+ACCESSION NUMBER:		0000940394-24-000421
+CONFORMED SUBMISSION TYPE:	497K
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20240426
+DATE AS OF CHANGE:		20240426
+EFFECTIVENESS DATE:		20240426
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CALVERT VARIABLE SERIES INC
+		CENTRAL INDEX KEY:			0000708950
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		497K
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	002-80154
+		FILM NUMBER:		24879059
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1825 CONNECTICUT AVENUE NW
+		STREET 2:		SUITE 400
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20009
+		BUSINESS PHONE:		8002256265
+
+	MAIL ADDRESS:	
+		STREET 1:		1825 CONNECTICUT AVENUE NW
+		STREET 2:		SUITE 400
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACACIA CAPITAL CORP
+		DATE OF NAME CHANGE:	19920703
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000708950
+<SERIES-ID>S000008732
+<SERIES-NAME>Calvert VP SRI Mid Cap Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000023790
+<CLASS-CONTRACT-NAME>Calvert VP SRI Mid Cap Portfolio
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>497K
+<SEQUENCE>1
+<FILENAME>cvscvpsrimcpsp.htm
+<DESCRIPTION>CVS CALVERT VP SRI MID CAP PORTFOLIO 497K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 3pt 0; text-align: left"><FONT STYLE="color: windowtext"><IMG SRC="cvscvpsrimcpsp_001.jpg" ALT="" STYLE="height: 36.75pt; width: 162pt"></FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 3pt 0; text-align: right">Summary Prospectus dated May 1, 2024</P>
+
+<P STYLE="font: bold 18pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Calvert VP SRI Mid Cap Portfolio</P>
+
+<P STYLE="font: bold 9pt/10pt Arial Narrow, Helvetica, Sans-Serif; margin: 3pt 0 3pt 2.9pt">This Summary Prospectus is designed to provide
+separate accounts of insurance companies, qualified pension and retirement plans and other eligible investors with key fund information
+in a clear and concise format. Before you invest, you may want to review the Portfolio&rsquo;s Prospectus and Statement of Additional
+Information, which contain more information about the Portfolio and its risks. The Portfolio&rsquo;s Prospectus and Statement of Additional
+Information, both dated May 1, 2024, as may be amended or supplemented, are incorporated by reference into this Summary Prospectus and
+are available at http://www.calvert.com/variable-portfolios. Contract holders, plan beneficiaries and other investors should ask their
+financial intermediaries, insurance companies, or plan sponsors, or visit their financial intermediary&rsquo;s or insurance company&rsquo;s
+web site for more information.</P>
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Investment Objective</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">Calvert VP SRI Mid Cap Portfolio (the &ldquo;Fund&rdquo;) seeks to provide
+long-term capital appreciation by investing primarily in a portfolio of the equity securities of mid-sized companies that are undervalued
+but demonstrate a potential for growth.</P>
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Fees and Expenses of the Fund</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>This table
+does not reflect expenses and charges that are, or may be, imposed under your variable annuity contract or variable life insurance separate
+account (&ldquo;Variable Contract&rdquo;) or qualified pension or retirement plan (&ldquo;Qualified Plan&rdquo;).</B></FONT> If these
+fees and expenses were included, expenses shown would be higher. For information on these charges, please refer to the applicable Variable
+Contract prospectus, prospectus summary or disclosure statement. If you participate through a Qualified Plan, the table does not reflect
+direct expenses of the plan, and you should consult your administrator for more information.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">This table describes the expenses that you may pay if you buy and hold
+shares of the Fund.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 9pt Arial Narrow, Helvetica, Sans-Serif; width: 100%; background-color: #E6E6E6; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: bottom; width: 88%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Shareholder Fees (fees paid directly from your investment) </TD>
+    <TD STYLE="width: 12%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt; text-align: center; line-height: 10pt"><FONT STYLE="font-size: 1pt">-</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: bottom; padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Maximum Sales Charge (load) Imposed on Purchases (as a percentage of offering price) </TD>
+    <TD STYLE="vertical-align: top; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">None</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: bottom; padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Maximum Deferred Sales Charge (load) (as a percentage of the lower of net asset value at purchase or redemption) </TD>
+    <TD STYLE="vertical-align: top; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">None</TD></TR>
+  </TABLE>
+<P STYLE="font: 2pt/3pt Arial, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 9pt Arial Narrow, Helvetica, Sans-Serif; width: 100%; background-color: #E6E6E6; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: bottom; width: 88%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Annual Fund Operating Expenses (expenses you pay each year as a percentage of the value of your investment) </TD>
+    <TD STYLE="width: 12%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt; text-align: center; line-height: 10pt"><FONT STYLE="font-size: 1pt">-</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Management Fees</TD>
+    <TD STYLE="padding: 3pt 5.4pt; text-align: center; line-height: 10pt">0.77%</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Distribution and Service (12b-1) Fees</TD>
+    <TD STYLE="padding: 3pt 5.4pt; text-align: center; line-height: 10pt">None</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Other Expenses</TD>
+    <TD STYLE="padding: 3pt 5.4pt; text-align: center; line-height: 10pt"><U>0.27</U>%</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Total Annual Fund Operating Expenses</TD>
+    <TD STYLE="padding: 3pt 5.4pt; text-align: center; line-height: 10pt">1.04%</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Expense Reimbursement<FONT STYLE="font-family: Arial Narrow, Helvetica, Sans-Serif"><SUP>(1)</SUP></FONT></TD>
+    <TD STYLE="padding: 3pt 5.4pt; text-align: center; line-height: 10pt"><U>(0.05)</U>%</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Total Annual Fund Operating Expenses After Expense Reimbursement</TD>
+    <TD STYLE="padding: 3pt 5.4pt; text-align: center; line-height: 10pt">0.99%</TD></TR>
+  </TABLE>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt/10pt Arial Narrow, Helvetica, Sans-Serif; margin-top: 3pt; margin-bottom: 3pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Arial Narrow, Helvetica, Sans-Serif"><SUP>(1)</SUP></FONT></TD><TD>Calvert Research and Management (&ldquo;CRM&rdquo;) has agreed to reimburse the Fund&rsquo;s expenses to the extent that Total Annual
+Fund Operating Expenses exceed 0.99%. This expense reimbursement will continue through May 1, 2025. Any amendment to or termination of
+this reimbursement would require approval of the Board of Directors. The expense reimbursement relates to ordinary operating expenses
+only and does not include expenses such as: brokerage commissions, acquired fund fees and expenses of unaffiliated funds, borrowing costs
+(including borrowing costs of any acquired funds), taxes or litigation expenses. Amounts reimbursed may be recouped by CRM during the
+same fiscal year to the extent actual expenses are less than any contractual expense cap in place during such year. Pursuant to this arrangement,
+the investment adviser may recoup from the Fund any reimbursed expenses during the same fiscal year if such recoupment does not cause
+the Fund&rsquo;s Total Annual Operating Expenses after such recoupment to exceed (i) the expense limit in effect at the time of reimbursement;
+or (ii) the expense limit in effect at the time of recoupment.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Example.</B></FONT>
+This Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. The Example
+does not reflect expenses and charges which are, or may be, imposed under your Variable Contract or Qualified Plan. If these fees and
+expenses were included, expenses shown would be higher. The Example assumes that you invest $10,000 in the Fund for the time periods indicated
+and then redeem all of your shares at the end of those periods. The Example also assumes that your investment has a 5% return each year,
+that the operating expenses remain the same and that any expense reimbursement arrangement remains in place for the contractual period.
+Although your actual costs may be higher or lower, based on these assumptions your costs would be:</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 9pt Arial Narrow, Helvetica, Sans-Serif; width: 100%; background-color: #E6E6E6; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 52%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt 3pt 13.7pt; border-right: Black 1pt solid; line-height: 10pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 12%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">1 Year</TD>
+    <TD STYLE="vertical-align: bottom; width: 12%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">3 Years</TD>
+    <TD STYLE="vertical-align: bottom; width: 12%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">5 Years</TD>
+    <TD STYLE="vertical-align: bottom; width: 12%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">10 Years</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; border-right: Black 1pt solid; padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Fund shares</TD>
+    <TD STYLE="vertical-align: bottom; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">$101</TD>
+    <TD STYLE="vertical-align: bottom; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">$326</TD>
+    <TD STYLE="vertical-align: bottom; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">$569</TD>
+    <TD STYLE="vertical-align: bottom; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">$1,266</TD></TR>
+  </TABLE>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Portfolio Turnover</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">The Fund pays transaction costs, such as commissions, when it buys and
+sells securities (or &ldquo;turns over&rdquo; the portfolio). A higher portfolio turnover rate may indicate higher transaction costs.
+These costs, which are not reflected in Annual Fund Operating Expenses or in the Example, affect the Fund&rsquo;s performance. During
+the most recent fiscal year, the Fund's portfolio turnover rate was&nbsp;31%&nbsp;of the average value of its portfolio.</P>
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Principal Investment Strategies</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">The Fund normally invests at least 80% of its net assets, (plus any
+borrowings for investment purposes) in the common stocks of mid-cap companies. The Fund defines mid-cap companies as those whose market
+capitalization falls within the range of the Russell Midcap<SUP>&reg;</SUP> Index at the time of investment. As of December 31, 2023,
+the market capitalization of the Russell Midcap<SUP>&reg;</SUP> Index companies ranged from $270 million to $73.3 billion with a weighted
+average market capitalization of $24.4 billion. Market capitalizations of companies within the Russell Midcap<SUP>&reg;</SUP> Index are
+subject to change. Although primarily investing in mid-cap U.S. companies, the Fund may also invest in small-cap companies. The Fund may
+invest up to 25% of its net assets in publicly-traded real estate investment trusts (&ldquo;REITs&rdquo;).</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">The Fund normally will invest at least 80% of its net assets (plus any
+borrowings for investment purposes) in companies and other issuers that the investment adviser determines operate in a manner consistent
+with or promote The Calvert Principles for Responsible Investment (the &ldquo;Principles&rdquo;). The Principles provide a framework for
+the investment adviser&rsquo;s evaluation of investments considering environmental, social and governance (&ldquo;ESG&rdquo;) factors.
+Each company is evaluated relative to an appropriate peer group based on material ESG factors as determined by the investment adviser.
+Pursuant to the Principles, the investment adviser seeks to identify companies and other issuers that operate in a manner that is consistent
+with or promotes environmental sustainability and resource efficiency, equitable societies and respect for human rights, and accountable
+governance and transparency. The Fund generally invests in issuers that are believed by the investment adviser to operate in accordance
+with the Principles and may also invest in issuers that the investment adviser believes are likely to operate in accordance with the Principles
+pending the investment adviser&rsquo;s engagement activity with such issuer. For additional information, please refer to &ldquo;Appendix
+A: The Calvert Principles for Responsible Investment&rdquo; in the Fund's prospectus.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">The Fund may invest up to 25% of its net assets in foreign securities.
+As an alternative to holding foreign stocks directly, the Fund may invest in U.S. dollar-denominated securities of foreign companies that
+trade on U.S. exchanges or in the over-the-counter market (including American Depositary Receipts (&ldquo;ADRs&rdquo;), which are either
+sponsored or unsponsored, and Global Depositary Receipts (&ldquo;GDRs&rdquo;)). The Fund may also lend its securities.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">The investment adviser selects securities primarily on the basis of
+fundamental research, and consideration of the responsible investing criteria described above. The portfolio managers utilize the information
+provided by, and the expertise of, the investment adviser&rsquo;s research staff in making investment decisions. In selecting securities,
+the portfolio managers seek companies that have sustainable earnings and cash flow, a strong and durable financial profile, secular and
+cyclical growth prospects, and the ability to maintain a competitive position within its industry. The portfolio managers also employ
+a disciplined valuation framework in pursuit of attractive risk adjusted returns. The portfolio managers seek to manage investment risk
+by maintaining broad issuer and industry diversification among the Fund&rsquo;s holdings, and by utilizing fundamental analysis of risk/return
+characteristics in securities selection. The portfolio managers may sell a security when they believe it is fully valued, the fundamentals
+of a company deteriorate, or to pursue alternative investment options. A security will also be sold (in accordance with the investment
+adviser&rsquo;s guidelines and at a time and in a manner that is determined to be in the best interests of shareholders) if the investment
+adviser determines that the issuer does not operate in a manner consistent with the Fund&rsquo;s responsible investment criteria.</P>
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Principal Risks</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Market Risk.</B></FONT>
+The value of investments held by the Fund may increase or decrease in response to social, economic, political, financial, public health
+crises or other disruptive events (whether real, expected or perceived) in the U.S. and global markets and include events such as war,
+natural disasters, epidemics and pandemics, terrorism, conflicts and social unrest. These events may negatively impact broad segments
+of businesses and populations and may exacerbate pre-existing risks to the Fund. The frequency and magnitude of resulting changes in the
+value of the Fund&rsquo;s investments cannot be predicted. Certain securities and other investments held by the Fund may experience increased
+volatility, illiquidity, or other potentially adverse effects in reaction to changing market conditions. Monetary and/or fiscal actions
+taken by U.S. or foreign governments to stimulate or stabilize the global economy may not be effective and could lead to high market volatility.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Equity Securities
+Risk.</B></FONT> The value of equity securities and related instruments may decline in response to adverse changes in the economy or the
+economic outlook; deterioration in investor sentiment; interest rate, currency, and commodity price fluctuations; adverse geopolitical,
+social or environmental developments; issuer and sector-specific considerations; unexpected trading activity among retail investors;
+or other factors. Market conditions may affect certain types of stocks to a greater extent than other types of stocks. If the stock market
+declines in value, the value of the Fund&rsquo;s equity securities will also likely decline. Although prices can rebound, there is no
+assurance that values will return to previous levels.</P>
+
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 8pt Arial, Helvetica, Sans-Serif; border-collapse: collapse; width: 100%"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 45%">Calvert VP SRI Mid Cap Portfolio</TD><TD STYLE="width: 10%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></TD><TD STYLE="width: 45%; text-align: right">Summary Prospectus dated May 1, 2024</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Smaller and
+Mid-Sized Company Risk.</B></FONT> The stocks of smaller and mid-sized companies are generally subject to greater price fluctuations,
+limited liquidity, higher transaction costs and higher investment risk than the stocks of larger, more established companies. Such companies
+may have limited product lines, markets or financial resources, may be dependent on a limited management group, and may lack substantial
+capital reserves or an established performance record. There may be generally less publicly available information about such companies
+than for larger, more established companies. Stocks of these companies frequently have lower trading volumes making them more volatile
+and potentially less liquid and more difficult to value.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Foreign Investment
+Risk.</B></FONT> Foreign investments can be adversely affected by political, economic and market developments abroad, including the imposition
+of economic and other sanctions by the United States or another country against a particular country or countries, organizations, entities
+and/or individuals. There may be less publicly available information about foreign issuers because they may not be subject to reporting
+practices, requirements or regulations comparable to those to which United States companies are subject. Adverse changes in investment
+regulations, capital requirements or exchange controls could adversely affect the value of the Fund's investments. Foreign markets may
+be smaller, less liquid and more volatile than the major markets in the United States and, as a result, Fund share values may be more
+volatile. Trading in foreign markets typically involves higher expense than trading in the United States. The Fund may have difficulties
+enforcing its legal or contractual rights in a foreign country. Depositary receipts are subject to many of the risks associated with investing
+directly in foreign instruments, including the political and economic risks of the underlying issuer's country and, in the case of depositary
+receipts traded on foreign markets, currency risk.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Currency
+Risk.</B></FONT> Exchange rates for currencies fluctuate daily. The value of foreign investments may be affected favorably or unfavorably
+by changes in currency exchange rates in relation to the U.S. dollar. Currency markets generally are not as regulated as securities markets
+and currency transactions are subject to settlement, custodial and other operational risks.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Industrials
+Sector Risk.</B></FONT> To the extent a Fund invests a substantial portion of its assets in the industrials sector, factors that have
+an adverse impact on this sector may have a disproportionate impact on the Fund's performance. The industrials sector can be affected
+by government regulation, world events, supply and demand for specific products and services, commodity prices, exchange rates and economic
+conditions, technological developments, and liabilities for environmental damage, product liability claims, and general civil liabilities.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Real Estate
+Risk.</B></FONT> Real estate investments are subject to risks associated with owning real estate, including declines in real estate values,
+increases in property taxes, fluctuations in interest rates, limited availability of mortgage financing, decreases in revenues from underlying
+real estate assets, declines in occupancy rates, changes in government regulations affecting zoning, land use, and rents, environmental
+liabilities, and risks related to the management skill and creditworthiness of the issuer. Companies in the real estate industry may also
+be subject to liabilities under environmental and hazardous waste laws, among others. REITs must satisfy specific requirements for favorable
+tax treatment and can involve unique risks in addition to the risks generally affecting the real estate industry. Changes in underlying
+real estate values may have an exaggerated effect to the extent that investments are concentrated in particular geographic regions or
+property types.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Liquidity
+Risk.</B></FONT> The Fund is exposed to liquidity risk when trading volume, lack of a market maker or trading partner, large position
+size, market conditions, or legal restrictions impair its ability to sell particular investments or to sell them at advantageous market
+prices. Consequently, the Fund may have to accept a lower price to sell an investment or continue to hold it or keep the position open,
+sell other investments to raise cash or abandon an investment opportunity, any of which could have a negative effect on the Fund&rsquo;s
+performance. These effects may be exacerbated during times of financial or political stress.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Securities
+Lending Risk.</B></FONT> Securities lending involves a possible delay in recovery of the loaned securities or a possible loss of rights
+in the collateral if the borrower fails financially. The Fund could also lose money if the value of the collateral decreases.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Risks Associated
+with Active Management.</B></FONT> The success of the Fund&rsquo;s investment strategy depends on portfolio management&rsquo;s successful
+application of analytical skills and investment judgment. Active management involves subjective decisions and there is no guarantee that
+such decisions will produce the desired results or expected returns. The portfolio manager also uses quantitative portfolio optimization
+and risk management techniques in making investment decisions for the Fund. Funds that are actively managed, in whole or in part, according
+to quantitative investment techniques can perform differently from the market, based on the investment techniques and factors used in
+the model or analysis, the weight placed on each factor, and changes from the factors&rsquo;
+historical trends. Mistakes in the construction and implementation of the quantitative techniques (including, for example, data problems,
+software issues and/or human error) may create errors or limitations that might go undetected or are discovered only after the errors
+or limitations have negatively impacted performance. There can be no assurance that these techniques will achieve the desired results.</P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 8pt Arial, Helvetica, Sans-Serif; border-collapse: collapse; width: 100%"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 45%">Calvert VP SRI Mid Cap Portfolio</TD><TD STYLE="width: 10%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></TD><TD STYLE="width: 45%; text-align: right">Summary Prospectus dated May 1, 2024</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Responsible
+Investing Risk.</B></FONT> Investing primarily in responsible investments carries the risk that, under certain market conditions, the
+Fund&rsquo;s performance may be impacted. The application of responsible investment criteria may affect the Fund&rsquo;s exposure to certain
+sectors or types of investments, and may impact the Fund&rsquo;s relative investment performance depending on whether such sectors or
+investments are in or out of favor in the market. An investment&rsquo;s ESG performance or the investment adviser's assessment of such
+performance may change over time, which could cause the Fund to temporarily hold securities that do not comply with the Fund&rsquo;s responsible
+investment criteria. In evaluating an investment, the investment adviser&nbsp;is dependent upon information and data that may be incomplete,
+inaccurate or unavailable, which could adversely affect the analysis of the ESG factors relevant to a particular investment. Successful
+application of the Fund&rsquo;s responsible investment strategy will depend on the investment adviser's skill in properly identifying
+and analyzing material ESG issues.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>General Fund
+Investing Risks. </B></FONT> The Fund is not a complete investment program and there is no guarantee that the Fund will achieve its investment
+objective. It is possible to lose money by investing in the Fund. The Fund is designed to be a long-term investment vehicle and is not
+suited for short-term trading. Investors in the Fund should have a long-term investment perspective and be able to tolerate potentially
+sharp declines in value. Purchase and redemption activities by Fund shareholders may impact the management of the Fund and its ability
+to achieve its investment objective(s). In addition, the redemption by one or more large shareholders or groups of shareholders of their
+holdings in the Fund could have an adverse impact on the remaining shareholders in the Fund. The Fund relies on various service providers,
+including the investment adviser and sub-adviser, if applicable, in its operations and is susceptible to operational, information security
+and related events (such as public health crises, cyber or hacking attacks) that may affect the service providers or the services that
+they provide to the Fund. An investment in the Fund is not a deposit in a bank and is not insured or guaranteed by the Federal Deposit
+Insurance Corporation or any other government agency.</P>
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Performance</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">The following bar chart and table provide some indication of the risks
+of investing in the Fund by showing changes in the Fund&rsquo;s performance from year to year and how the Fund&rsquo;s average annual
+returns over time compare with those of one or more indexes intended to measure broad market performance. The Fund&rsquo;s primary benchmark
+index was changed from the Russell Midcap<SUP>&reg;</SUP> Index to the S&amp;P 500<SUP>&reg;</SUP> Index Index effective May 1, 2024 to
+comply with the regulation that requires the Fund&rsquo;s primary benchmark to represent the overall applicable market. The additional
+index(es) in the table provide a means to compare the Fund&rsquo;s average annual returns to a benchmark that CRM believes is representative
+of the Fund&rsquo;s investment universe. The returns in the bar chart are for Fund shares and do not reflect any insurance-related expenses
+and charges under a Variable Contract or expenses related to a Qualified Plan. If such charges were reflected, the returns would be lower.
+Thus, you should not compare the Fund&rsquo;s returns directly with the performance of other products without taking into account all
+insurance-related charges and expenses payable under your Variable Contract or Qualified Plan. Past performance is not necessarily an
+indication of how the Fund will perform in the future.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">CRM became the investment adviser to the Fund on December 31, 2016.
+Performance reflected prior to such date is that of the Fund&rsquo;s former investment adviser. The Fund&rsquo;s performance reflects
+the effects of expense reductions. Absent these reductions, performance would have been lower.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 3pt 0; text-align: center"><FONT STYLE="color: windowtext"><IMG SRC="cvscvpsrimcpsp_002.jpg" ALT="" STYLE="height: 112.5pt; width: 564pt"></FONT></P>
+
+<P STYLE="font: 9pt/10pt Arial Narrow, Helvetica, Sans-Serif; margin: 3pt 0">For the ten years ended December 31, 2023, the highest quarterly
+total return was 17.82% for the quarter ended June 30, 2020 and the lowest quarterly return was -23.41% for the quarter ended March 31,
+2020.</P>
+
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 8pt Arial, Helvetica, Sans-Serif; border-collapse: collapse; width: 100%"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 45%">Calvert VP SRI Mid Cap Portfolio</TD><TD STYLE="width: 10%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></TD><TD STYLE="width: 45%; text-align: right">Summary Prospectus dated May 1, 2024</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 9pt Arial Narrow, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 9pt Arial Narrow, Helvetica, Sans-Serif; width: 100%; background-color: #F2F2F2; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom; background-color: #E6E6E6">
+    <TD STYLE="width: 73%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Average Annual Total Return as of December 31, 2023</TD>
+    <TD STYLE="width: 9%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">One Year</TD>
+    <TD STYLE="width: 9%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">Five Years</TD>
+    <TD STYLE="width: 9%; border-bottom: Black 1pt solid; padding: 3pt 5.4pt; text-align: center; line-height: 10pt">Ten Years</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: #E6E6E6">
+    <TD STYLE="padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Fund Return Before Taxes</TD>
+    <TD STYLE="padding: 3pt 5.4pt; line-height: 10pt">11.64%</TD>
+    <TD STYLE="padding: 3pt 5.4pt; line-height: 10pt">8.80%</TD>
+    <TD STYLE="padding: 3pt 5.4pt; line-height: 10pt">6.19%</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: #E6E6E6">
+    <TD STYLE="padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">S&amp;P 500<SUP>&reg;</SUP> Index  (reflects no deduction for fees, expenses or taxes) </TD>
+    <TD STYLE="padding: 3pt 5.4pt; line-height: 10pt">26.29%</TD>
+    <TD STYLE="padding: 3pt 5.4pt; line-height: 10pt">15.68%</TD>
+    <TD STYLE="padding: 3pt 5.4pt; line-height: 10pt">12.03%</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: #E6E6E6">
+    <TD STYLE="padding: 3pt 5.4pt 3pt 13.7pt; line-height: 10pt">Russell Midcap<SUP>&reg;</SUP> Index (reflects no deduction for fees, expenses or taxes)</TD>
+    <TD STYLE="padding: 3pt 5.4pt; line-height: 10pt">17.23%</TD>
+    <TD STYLE="padding: 3pt 5.4pt; line-height: 10pt">12.67%</TD>
+    <TD STYLE="padding: 3pt 5.4pt; line-height: 10pt">9.42%</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 3pt 0 0"><FONT STYLE="font-family: Arial Narrow; font-size: 9pt">The S&amp;P
+500<SUP>&reg; </SUP>Index is a product of S&amp;P Dow Jones Indices LLC or its affiliates (&ldquo;SPDJI&rdquo;) and any Third Party Licensor,
+and has been licensed for use by CRM. S&amp;P<SUP>&reg;</SUP>, S&amp;P 500<SUP>&reg;</SUP>, US 500, The 500, iBoxx<SUP>&reg;</SUP>, iTraxx<SUP>&reg;
+</SUP>and CDX<SUP>&reg;</SUP> are trademarks of S&amp;P Global, Inc. or its affiliates (&ldquo;S&amp;P&rdquo;); Dow Jones<SUP>&reg;</SUP>
+is a registered trademark of Dow Jones Trademark Holdings LLC (&ldquo;Dow Jones&rdquo;); any Third Party Licensor Trademarks are trademarks
+of the Third Party Licensor and these trademarks have been licensed for use by SPDJI and sublicensed for certain purposes by CRM. The
+Fund is not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&amp;P, their respective affiliates, or any Third Party Licensor
+and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability
+for any errors, omissions, or interruptions of the S&amp;P 500<SUP>&reg;</SUP> Index. Investors cannot invest directly in an Index.</FONT></P>
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Management</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Investment
+Adviser.</B></FONT> Calvert Research and Management (&ldquo;CRM&rdquo; or the &ldquo;Adviser&rdquo;).</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><B>Portfolio Managers</B></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Michael D.
+McLean,</B></FONT> CFA, Managing Director of Morgan Stanley and Vice President of CRM, has managed the Fund since June 30, 2022.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>J. Griffith
+Noble,</B></FONT> CFA, Managing Director of Morgan Stanley and Vice President of CRM, has managed the Fund since June 30, 2022.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif"><B>Prachi Samudra,</B></FONT>
+Executive Director of Morgan Stanley and Vice President of CRM, has managed the Fund since December 30, 2022.</P>
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Purchase and Sale of Fund Shares</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">All purchases, redemptions and exchanges of Fund shares are made through
+insurance company separate accounts, qualified pension and retirement plans or by other eligible investors that are the record owner of
+the shares. Contract holders, plan beneficiaries, and other investors seeking to purchase, redeem, or exchange interest in the Fund&rsquo;s
+shares should consult with the insurance company, plan sponsor or other eligible investor through which their investment in the Fund is
+made.</P>
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Tax Information</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">The Fund will distribute any net investment income and net realized
+capital gains at least annually. Both types of distributions will be made in shares of the Fund unless an election is made on behalf of
+a separate account to receive some or all of the distributions in cash. Because shares of the Fund are offered to insurance company separate
+accounts, qualified pension and retirement plans, and other eligible investors, you should read your prospectus, disclosure statement
+or plan documentation to understand the tax treatment of your investment.</P>
+
+<P STYLE="font: bold 12pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">Payments to Insurance Companies, Plan Sponsors and Other Financial
+Intermediaries</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 6pt 0">The Fund is generally available for purchase by separate accounts of
+insurance companies, qualified pension and retirement plans or by other eligible investors. The Fund, its principal underwriter and its
+affiliates may make payments to insurance companies, plan sponsors or other financial intermediaries for distribution and related services.
+These payments may create a conflict of interest for the insurance company, plan sponsor or other financial intermediary to include the
+Fund as an investment option in their product or to recommend the Fund over another investment option. Ask your financial intermediary,
+insurance company, or plan sponsor, or visit your financial intermediary&rsquo;s or insurance company&rsquo;s website, for more information.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 9pt Arial Narrow, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-top: 3pt; padding-bottom: 3pt">24159 5.1.24</TD>
+    <TD STYLE="width: 50%; padding-top: 3pt; padding-bottom: 3pt; text-align: right">&copy; 2024 Calvert Research and Management</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 3pt 0"></P>
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 8pt Arial, Helvetica, Sans-Serif; border-collapse: collapse; width: 100%"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 45%">Calvert VP SRI Mid Cap Portfolio</TD><TD STYLE="width: 10%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></TD><TD STYLE="width: 45%; text-align: right">Summary Prospectus dated May 1, 2024</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 3pt 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>cvscvpsrimcpsp_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 cvscvpsrimcpsp_001.jpg
+M_]C_X  02D9)1@ ! 0$ W #<  #_VP!#  (! 0$! 0(! 0$" @(" @0# @("
+M @4$! ,$!@4&!@8%!@8&!PD(!@<)!P8&" L("0H*"@H*!@@+# L*# D*"@K_
+MVP!# 0(" @(" @4# P4*!P8'"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*
+M"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@K_P  1" !O ? # 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#\I?VM_P!O
+MS]M[QI^U'\0O$6M?M9_$433>,]258K3QE>P0PHMS(J1QQQRA(T50%55    K
+MSS_AM+]L?_H[+XF?^%[J/_QZOLG]K?\ X-S/^"O>E?M-^/%\%?LE:EXKT6Z\
+M57UUH_B+0]7L3;W]K+.\D<JAYU="5891U#*<C'0GSO\ XAX/^"T7_1A'BC_P
+M::=_\DU9GJ?/7_#:7[8__1V7Q,_\+W4?_CU'_#:7[8__ $=E\3/_  O=1_\
+MCU?0O_$/!_P6B_Z,(\4?^#33O_DFC_B'@_X+1?\ 1A'BC_P::=_\DT[@?/7_
+M  VE^V/_ -'9?$S_ ,+W4?\ X]1_PVE^V/\ ]'9?$S_PO=1_^/5]"_\ $/!_
+MP6B_Z,(\4?\ @TT[_P"2:/\ B'@_X+1?]&$>*/\ P::=_P#)-%P/GK_AM+]L
+M?_H[+XF?^%[J/_QZC_AM+]L?_H[+XF?^%[J/_P >KZ%_XAX/^"T7_1A'BC_P
+M::=_\DT?\0\'_!:+_HPCQ1_X--._^2:+@?/7_#:7[8__ $=E\3/_  O=1_\
+MCU6=$_;M_;=\-:S:Z_H7[7_Q.M[RSF6:VG3QYJ!*.IR#S-C\#P>]>^?\0\'_
+M  6B_P"C"/%'_@TT[_Y)K0\*_P#!N%_P6A\4>);'PZW[$>L::M[=)"VH:KK>
+MG16UJK, 996^T$A%'S' 9L#@$X!0:G]9G[,OB[7_ (@?LW?#[QYXKO/M&J:W
+MX'TF_P!2N-H7S;B:SBDD; X&68G KN*Y7X$^ +WX3_!#P;\+-2OXKJX\,^%=
+M/TJXNH%(29[>VCA9U!Y )0D9YP:ZJH- HHHH **** "BBB@ HHHH **** "B
+MBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH ***
+M* "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH _ []HC_ (/._B%\
+M//CGXK^'WPL_8DT.^T'0=>NM.T_4-<\53QW5VL,K1^:Z1PE8]VW.P%L XR:X
+MS_B-K_:#_P"C$?!O_A7W?_QFOQU_:6M;JP_:.^(%E>VTD,T/C;54EAE4JR,+
+MN4$$'H0:XFJT,[R/W _XC:_V@_\ HQ'P;_X5]W_\9H_XC:_V@_\ HQ'P;_X5
+M]W_\9K\/Z*- O+N?N!_Q&U_M!_\ 1B/@W_PK[O\ ^,T?\1M?[0?_ $8CX-_\
+M*^[_ /C-?A_11H%Y=S]P/^(VO]H/_HQ'P;_X5]W_ /&:/^(VO]H/_HQ'P;_X
+M5]W_ /&:_#^BC0+R[G[@?\1M?[0?_1B/@W_PK[O_ .,U;T'_ (/;/C(-:M3X
+MI_8,\,MIWG+]L73_ !E<+-Y>>=A> KNQTR,5^&E!]<4:!=]S^\GX:>.](^*7
+MPY\/_$WP]%-'I_B/1;75+%+E0LBPW$*RH& ) ;:XR 3S6W7G/['EK=6/[)'P
+MML;VVDAFA^'.AQS0RJ59&%A""I!Y!!X(KT:I- HHHH **** "BBC.* "FRND
+M<322.%55RS,< #UKY?\ ^"I?_!6+]F;_ ()3_!/_ (65\:]3;4O$&I[HO"7@
+M?39E%_K,PZD9_P!5"O5YF&U> -S,JG^8?_@HY_P7:_X* _\ !2+6=4TCX@_%
+M6Z\+^ KV9A;_  Y\)W4EKIZV^?ECN"I#WIZ$F4E2W*H@PH=KDN5C^HWXR?\
+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
+M9"_86\%R>._VJ_CWH/@^S$326]O?7!DO+S':"UB#33GV1&I%'KU%?B_\<?\
+M@](_8\\):G/I_P  _P!EOQSXRCC8K'?ZSJ%OH\,V#]Y1B=P#U&5!QU /%>4P
+M?\'O]VURJW7_  36C6'=\SQ_%PLV/H=* _6BPKH_?:BOR5_91_X/!?\ @GG\
+M;?$MGX/^/?@+Q9\*+B]D$2ZMJ2IJ.EQ,3@>9-;XDC7G[QBVCJQ4<U^J?@3QY
+MX)^)WA&P\??#GQ=INO:'JL GTW6-(ODN+:ZC/1XY$)5A[@T#->BBB@#^0?\
+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
+MUBZD;+3W;6<?G2G_ 'Y S?\  J]LJ30_D(_X.6?^4TWQF_Z_-+_]-=K77_\
+M!J7_ ,IHO 7_ &+>O_\ INFKD/\ @Y9_Y33?&;_K\TO_ --=K77_ /!J7_RF
+MB\!?]BWK_P#Z;IJKH9_:/ZR#TK^2?_@YX_8ZL/V2_P#@JWXPUOPKHYL_#GQ.
+MMX?%VEHJX1;BXRM\H/3F[2:3 X43*.U?UL$9K\?O^#Q7]C:R^+_[#/AC]K;0
+M]-+:W\*?$7D7\R#[^CZ@5BE#>NRY2T9<_=#2?WJ2*EL?AY_P1@_:WL/V(O\
+M@IG\)_CWXBU7[%H,'B:/3/%%SN(6+3;T&UN)&QU6-9?-([^7BO[0DD210\;!
+ME894CN*_@=R5^8=:_L^_X(J_M:6'[:G_  3(^$OQL745N-47PS'H_B12^7BU
+M*Q)M9P_)(+&(2C/)256[TY!$^IJ**#TJ2C\4/^#S_P#:TF\%_LU?#C]C?P]K
+M7EW/CCQ!)KWB"UBD^:2PL1MA1Q_<:XE#C/!:VX^Z:_G<\%>$/$/Q!\8Z3X!\
+M):<UWJFMZE!8:;:Q]9KB:01QH/JS 5]N?\'(W[64W[67_!6SXC7MEJAN=&\!
+M21^#="42%EBCL2PN OUNY+IO^!5TW_!KY^QE'^UE_P %4_"_BOQ%9";PY\*K
+M63Q;JRO'E9;B$B.QBSC&?M4D<I!X*P..^:K9&>[/Z>OV&_V8_#?[&'[(/PZ_
+M9<\+LLEOX)\*6FFS72Q[?M=TL8-Q<$#H99VDD/N]> _\%O?^"O7@;_@DQ^S'
+M_P )?:6=KK/Q'\6":R^'WANXFPKSJGSWLX'S?9X-RLP&#(Q6,,NXLOVE+)'!
+M&TTKJJJNYF9L #U-?QK?\%Q?V\[[_@H9_P %'O'GQBL=3DF\+Z/?-X=\#QM)
+MN5=*LY'1)5]!-)YMQCMYV.<9,HIZ'@?[3/[4?Q\_;$^+^J?'?]H_XEZCXH\3
+M:M)NN+_4)LK%&/NPPH/EAB4<+&@"J.@ZU[C^P5_P13_X**?\%';'_A*/V=/@
+M;(OA=9-C^,_$UXNG:66S@B.23Y[@@]1"DA7OBNT_X-_?^"8FE?\ !3W]NZQ\
+M"?$FTN6^'G@VQ_M[QU]G)3[5 KA(++?_  >=*0#CYC&DNW!&X?UX^$?"/A?P
+M#X6T[P1X)T"TTG1](L8K/2],L(!%!:V\:!(XHT7 554  #H!57%&)_+WX[_X
+M- ?^"L?A7PQ-KOAFZ^&OB:\ACW+HNE^+'AN)S_=1KJ"*+/\ OR*/>OSA^/'[
+M/?QP_9@^(]]\(?VA/A9K7@_Q)I[8NM(URQ:&4#LZYXD0]G4E6'()%?W9@ 5\
+M,?\ !>W_ ()4>"?^"E_[&.O?V%X,MYOBMX+TNXU+X<ZM#&%NI9D7>^G%^-T=
+MP%V;6^59"C<8.2XW'L?AQ_P0!_X+U?$K_@GA\5M(_9W_ &A?&-YJ_P #->O!
+M;36]]<-(?"4TLBXOK;.2L )8RP+A2':0#>"&_JFTG4]-UK3+?6=&U"&[L[R%
+M)[2ZMY \<T;*&5U8<,I!!!'!!K^"2:*:WE:">)DDC8J\;KM*L.""/6OZKO\
+M@U3_ &ZM6_:W_P"":]K\*O&]Z;CQ+\'-4_X1NXFDD+276FF,2V,S9Z;4+V_N
+M+4'^*ABC+H?IK7\7'_!:7_E++^T)_P!E4U;_ -'M7]H]?Q<?\%I?^4LO[0G_
+M &535O\ T>U$1RZ'=_\ !#K_ (*)^"/^"8/QN^)7[3GBG3_[0U./X3WVF^$-
+M%_Z".K37=IY$;'C;&NUI)&SD)&V,L5!^8_VDOVE/CE^V)\;M:^/OQ^\;WOB7
+MQ9XBO/,O+RX/W>R0Q(.(XD&%2-0 H  %<W\._AYXU^+?C[1OA?\ #CP[<ZOK
+MWB#4H=/T?2[.,M+<W$KA$11ZEB/85_51_P $5O\ @WE_9U_X)S>!='^+/QO\
+M*Z5XU^-EQ;B?4->OH1<6N@2,/^/>P1QA2@^4W&/,8[L%5.VC8E)L_F@\*?\
+M!/3]O3QUH2^)_!O[%WQ2U3363>M]8^ [^2(KC.0RQ8(]Z_=O]OC]BW]JK]I[
+M_@VB_9O^ 7P*^!FO>(/&FE:;X5GU+PS#;B&[M8X=.F24R),4VE6900>03TK]
+MIU544*JX &![4N!2N5RG\;<__! G_@L9:P/<W'[ ?C98XU+2,?LO"@9)_P!=
+M7Q_FO[UO$O\ R+FH?]>,O_H!K^"D<4T*2L>T?LJ?\$[OVU_VX-,UC6?V3_V=
+MM>\<6N@7$4&L3:/Y6+6212R*WF.O)"DC&>E>W>!_^"!__!8?3?&FCZC??L#>
+M-HX;?5+>2:1OLN$59%)/^N["OU!_X,E!_P 6=^/'_8S:/_Z3SU^YM%QJ)_%9
+M^V5^P#^VM\-OVK?B)X3\2?LL^//M$/C+4FCN+/PI=SP7,374C)-%*D962-U(
+M964D$&O-/^&//VMO^C7_ (B?^$5??_&J_HP^-W_!X3_P3_\ @Y\8/$?PIL/@
+M7\3O$B^'-9N--DUO2[6PCMKN2&0QN\0FN4?9N4X+*"1SCFN8_P"(U/\ 8,_Z
+M-4^+O_?O2_\ Y+HU)]WN?S[?\,>?M;?]&O\ Q$_\(J^_^-4?\,>?M;?]&O\
+MQ$_\(J^_^-5_03_Q&I_L&?\ 1JGQ=_[]Z7_\ET?\1J?[!G_1JGQ=_P"_>E__
+M "71J'N]S^?;_ACS]K;_ *-?^(G_ (15]_\ &J/^&//VMO\ HU_XB?\ A%7W
+M_P :K^@G_B-3_8,_Z-4^+O\ W[TO_P"2Z/\ B-3_ &#/^C5/B[_W[TO_ .2Z
+M-0]WN?S[?\,>?M;?]&O_ !$_\(J^_P#C5'_#'G[6W_1K_P 1/_"*OO\ XU7]
+M!/\ Q&I_L&?]&J?%W_OWI?\ \ET?\1J?[!G_ $:I\7?^_>E__)=&H>[W/Y]O
+M^&//VMO^C7_B)_X15]_\:J[X9_87_;3\9>(;+PIX8_9+^)%YJ&H7"P6=K'X+
+MO0TDC' ',0 Y[D@#J2!7[^?\1J?[!G_1JGQ=_P"_>E__ "75G1_^#T?_ ()^
+MZAJ]K8ZK^S7\6]/M9IU2XO7M=-D6!">7*I=EF '.!R>U&H>[W/U8_9N\%Z]\
+M-OV=_ 7PZ\4P)'JF@>"]+TW4HXY ZI<06D44@##A@&4\C@UVE9O@[Q7H'COP
+MEI?CCPIJ"W>EZSI\-]IMTJE1-;S1B2-P& (!5@>0#S6E4F@4444 %%%% '+_
+M !NTRZUKX,>+M&L54S7?A?4(80S8!9K:11D]N37\(*@^M?WO:K9+J6EW.G.>
+M+BW>,_\  E(_K7\)_P"T!X&N_AA\=_&OPWU&U:&;0/%FHZ=)$X(*-#<R1D'_
+M +YJD3(_<C_@R'G@\C]HJV\Y?,5O#+-'N&X*1J0!QZ9!_*OWPK^:S_@RZ^-M
+MKX1_;E^)GP)O+SRH_&GPY6_M4,F!-=:?>1[4QW;RKRX8>@1O6OZ4Z3W''8**
+M**0PHHHH **** "C(!KD?CI\=_A%^S1\*-:^.'QV\?:?X9\*^'K%[K5M8U*;
+M9'$BC[H'WI'8X58T!=V(506(!_GS_P""E?\ P> _'GXC>(+SX>?\$X/#4?@?
+MPS%OB_X3?Q#I\=SJ]\<X\R&!]T-JF.@=9'.03L/RT!<_H<^('Q4^&/PGT=O$
+M7Q2^(NA^&]/0$M?:]JT-G" .IWRLJ_K7Q/\ M*?\'+7_  1\_9MO;C1)_P!I
+M^+QOJUOPVF_#O2YM51C[7: 6AY])B1Z5_*!\9OVA/CO^T=XNN/'?QY^,7B;Q
+MEK5Y)OFU#Q)K4]Y*3GH#(QVJ.@48 '  '%=S^SW_ ,$W_P!O7]JS4H-/_9^_
+M9#^('B9;A@JZA9^&IX[%,]/,NY56"(>[NHJK$<Q^BW_!<[_@Y+^"7_!3;]EF
+MX_9&^"/[.'B;2;";Q)8ZHWBOQ)K$$;C[,7.Q;2)),AMWWC*I&/NFOR (]Z^U
+M_P!L?_@@-^W_ /L"_LIS_M9_M4:%X9\/Z3#K%GIO]AV_B*.^O_.N"P7/V</"
+M -ISB0^V:^)_E_AIH1_:9_P1B_Y10_L^?]DJTC_TG6OIJOF7_@C%_P HH?V?
+M/^R5:1_Z3K7TU4&A_(1_P<L_\IIOC-S_ ,OFE_\ IKM:Z_\ X-2_^4T7@+_L
+M6]?_ /3=-7'_ /!RWM_X?3?&;=_S^:7_ .FNUKL/^#4K'_#Z+P%C_H6]?_\
+M3=-5?9,_M']9%>=_M;?L[>$/VM_V9?'?[,_CQ#_9?C?PO>:3<2*H+0-+$5CF
+M3/&^.39(I/1D%>B4$9J30_@U^)7@'Q%\)_B)KWPO\86Q@U;PYK%SIFI0G^">
+M"5HG'_?2FOW@_P"#*O\ :TM9=-^+7[#^MZIMN(9(?&?AVU9OOQGR[.]*C_9;
+M[%_WW[&OC'_@ZQ_8ZL/V8?\ @J3JWQ*\+:4+70?BYI,7B:%(TPBZADPWP'J6
+MF3SS[W![8KP?_@A?^UC#^QI_P5+^$OQ8U36A8Z+?>(4T#Q)<22;8TL;_ /T6
+M1Y#TV(TB2G/3R\]0*K[)GLS^S#->/?\ !0/]INS_ &-?V*/B=^TY=RQK)X/\
+M(7=[IXFQM>]V;+5"#UW3O$N.^<5[ O2OQ>_X/-OVMK[X??LG^ /V/_#6N&WG
+M^(7B1M5\16\;_--ING@&.)A_<:ZDAD_WK8>]2:'\XFKZKJ>O:M=:]K>H375[
+M?7$EQ>75Q(6DFE=BS.Q/)8DDD]R:_IC_ .#/3]C&V^#'[!_B#]K/Q!I[+KWQ
+M9\1,EB\BX\O1[ M#"!QP7N&NF)Z%1%Z5_-C\+/AQXG^,/Q,\/_"?P-8FYUCQ
+M-K5KI>EP<_/<3RK&@..VYAD]A7]Q'[*G[/'@W]DK]FSP/^S1\/QNTCP/X8L]
+M'M)FC"M<>3$JM.X'\<CAI&_VG-5(B.YR?_!2;XOR? +_ ()]_&CXR6UWY-QX
+M>^&6M75C)S_Q\"SD$(&.YD* >YK^(=GDF=II9&9F;+,>YK^P[_@XNU*\TK_@
+MBQ\>KJQE\MV\.V,+-M!^235+.-QSZJS#\:_CO!3&#1$<C^CK_@SPTWX'?!?]
+MASQ]\6_&7Q!\-Z1X@\;>/_L\W]J:Q;V\S65C;JL"[78':)+BY(/3YS7Z]?\
+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
+M1_\ &J+A8_+VBOU"_P"(0W_@KU_T"_AS_P"%J/\ XU1_Q"&_\%>O^@7\.?\
+MPM1_\:HN%C\O:GTO5=5T/4[?6=$U*XL[RUD$MM=6LS1R1.#D,K*05(/0@Y%?
+MIW_Q"&_\%>O^@7\.?_"U'_QJK6B?\&@/_!6G4-8M;'5I/AKI]K-.J7%])XO:
+M18$)Y<JD)9L#G &31<+']+7[*6OZUXK_ &7/AMXI\2:G->ZCJ7@'1[K4+RX;
+M=)/-)90N\C'NS,22?4UWU<W\'?A]%\)/A'X5^%4&I->)X9\.6.DI>-'M,XM[
+M=(1(5R<%MF<9XS725!H%%%% !1110 5'=6\%W;O:W4"R1R*5DCD7*LI&"".X
+M(J2B@#^7_P#X.(_^" 7C/]B+X@:Q^V%^REX1NM4^#>O7S76L:;8P%Y/!UU*Q
+M+1LJ\_8F;[DN,1[A&V/D9_RATW4=1T;4(=7T?4)[2[MI5EM[JUF:.2)P<AE9
+M2"I!Y!'(K^];5-*TO7--GT;6M-M[RSNH6BNK6ZA62.:-AAD96!#*1P01@U^0
+M_P#P4?\ ^#1?]E7]I'6-6^*7[%7C4?"7Q1?,]PWAN:U:Y\/W$[')"HI\RR5C
+M_P \MZ+_  Q <529,HGYM?L9?\'8G_!2O]E[PCI_P\^**^'_ (N:/IL*P6MQ
+MXR26/5!"HP%:]A8-*1_?F61SW)[?1OB/_@]R^,=SI$L'A'_@G[X9L;\K^XN=
+M2\?7%U"I]6C2TB9OP<5\:_'[_@V0_P""MGP#DN)KKX1^&_$MC;JS_P!I>'O&
+MUBL;QK_&%NY(),>Q4'VKQO2?^",O_!2;7=3@T;2OV</-N+F01PQ_\)AHR[F/
+M09-X /QH]TGWC;_X*+?\%N?V_O\ @II''X;^//Q/CTWPA;S>;;^!O"MN;+3=
+M_9YE!,ERP[><[A>=H7)S\I>'?#NO^+M?L_"WA71;O4M3U&Y2VT_3[&W:::YF
+M=MJQHB@LS$D   DDU^GG[,G_  :0?\%._C;JUK/\5[WP7\-]"DF O-0U+7DU
+M*YCC_B,5O9EUD?T5I8P?[PK]L?\ @EQ_P;\_L/?\$P+N+XA^%M*NO'7Q&^S^
+M4_CSQ5"ADMLCYOL=N,QV@//S M)CY3(1Q1<.5L\J_P"#;S_@B5<_\$W?@_<?
+MM$?M$:&L?QD\=:>L5U8O(L@\-Z82KK9#''GNP#3,"0"JH#\K%OU /2C'&"**
+MDTV/Y!?^#BC]@_7/V&O^"G'CI;33)E\(_$?4Y_%W@^\:';&T=Y(9;FV7M^XN
+M7EC SGRQ&3C=BO)?^"5O_!2_XN?\$K/VJK/]H_X7Z7'K%I-9/IOBKPS=730P
+MZQI[NCM$7 .QU9$=)-K;67H06!_K6_X*+_\ !-_]FG_@IO\  2;X#_M&^')'
+MCBE-SX?\0:=M34-%N\8\ZWD(.,CAT(*NO##@$?SP_MF?\&F7_!1[]GCQ)?WW
+MP*N/#7Q0\*+*QTW4;76H-+OC'V$]O>2(B/Z[)74]<C.!7D9M.]T?K/\ "O\
+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
+?\!Z%9VFIPRS7&H>-(Y,*CAB<6Z2MT&.G4T]!>\?_V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>cvscvpsrimcpsp_002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 cvscvpsrimcpsp_002.jpg
+M_]C_X  02D9)1@ ! 0( .P [  #_VP!#  ," @(" @," @(# P,#! 8$! 0$
+M! @&!@4&"0@*"@D("0D*# \,"@L."PD)#1$-#@\0$!$0"@P2$Q(0$P\0$!#_
+MP  +" #A!&4! 1$ _\0 '@ !  (" P$! 0            <(!08#! D* @'_
+MQ !7$   !0," @<""00." 4$ P   0(#! 4&!P@1$E<3&!DAEM/4E:8)%!4B
+M,3A!55AVE[2U%A<C,DE15F%UA8?%T>0S-U-H<723TB0V0K*S)35#D31BP?_:
+M  @! 0  /P#U3
+M
+M
+M
+M                                                        !0;1
+MGHSTVY9TVVCD+(6.EU>X*NJI+FS5UJH-&Z:*A);2?"V^E!;(0DNXB^@37V=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=V
+MCKD_[P53U(=G=HZY/^\%4]2'9W:.N3_O!5/4AV=VCKD_[P53U(=G=HZY/^\%
+M4]2'9W:.N3_O!5/4AV=VCKD_[P53U(TG$N&<;X+UYR[2Q7;RZ)2)V(CJ,B+\
+M>DR4KDG64MFYN^XLR/@0DNXR+N_XBX@   *X_!W?4ZQ__6OZTEBQP
+M
+M                     KC_  BW]BO]^BQP   *X_!W?4ZQ_P#UK^M)8L<
+M
+M                           *X_PBW]BO]^BQP   *X_!W?4ZQ_\ UK^M
+M)8L<                                             "HNI?*N=\,I
+MN"^&LZ8]B2X<EI=JXV11RDS+ABJ=2VVTMQ3I23DNJZ0BZ!O@2:/_ %$2C+==
+M9]_YGQK@:=E+%ERT>W7Z$TS)J<>H4CX_(>)U]AM+3*S=2VT:>D7Q*4V[OLGA
+MX>\SL**[ZCKGRK9DBI7.C4=C[%EK0*8;]):JE+;F2ZM,0DU/(>-]U!$V1]$E
+M*&"4X?&9F9'PI/6[SU2W] POAV2]&M^QL@9;CH<DRKBW;IMNQV8GQF?.=0XM
+M!F3;9%T;2UI^<Z@E*[C(^^]D[)=L:=;QR3:N=+4S(]&>BHIE:HM";4W365/-
+M-S'GFH3[B9/Q=IQ<C@3P*V:-)[[[EA<>ZA<CW7;U8LRW+SI]Z5>KW&S0+*O1
+MBB_$H\V.J(V_/G+CF9MN)@D;Q<:?W)UPF6NY2CWMJVDT-I0IQ2S21$:E;;J_
+MG/8B+_\ 1#]                                     *X_PBW]BO]^B
+MQP   *X_!W?4ZQ__ %K^M)8L<
+M          "D^I.-=N7:#=MA7%HJJT_)AE(IMEWC3"A/0HK?2+.#.35E+;?B
+M&T:^D6T:2/B)1$1DL]MTUETO(\W2<YB6E63<]^7;<%,@P7Y=$BMNM)DQW([C
+MSSYK6A2$N&A9IV)1F?TD7TB7JME:Y6<;TN_:%AN[ILZHS6(R[=E-M1JE$:6_
+MT2WGDDM:"2A)=(9$H]T[?0?<(MS[6W*Q7JS9.6=%E2RC;R&-[5J=(BPZHEXW
+M6DD\V]TZFW*<X3B2+I$[D:22HE;IV$7S-/F5;;Q?IIO3)-@O9/KN'5SBN.W6
+MWF9DM4::T:6UL],HFY+T,VXI$GB^<;9FD^XE"5M--IW/)S)E7,[F,JCCJUKQ
+M9H\2FT.I-,QYDR1$0\3]0?CM*4E@U]*ALB,^-1-\2B+N&"RS:F8+K8J^7J?2
+MKMBN.5Z+06Z507DQ:]'LV.^KXXN&I2DFW)ER$-OJX5)<..TP@C)Q(E+3!%R)
+M$QQ);R$FY&T*K<Y=OLW/)3(K+-&-9?%D37$J5Q/?OS^<I2R0:"69J(Q+H
+M                                 "N/\(M_8K_?HL<   "N/P=WU.L?
+M_P!:_K26+'                                             (JKNJ
+MW3-;%:G6Y<>>["IE5IDAR)-ARJ]&:>CO(4:5MK0I>Z5),C(R/O(R'0ZY6DW\
+M2&./$<7_ +PZY6DW\2&./$<7_O#KE:3?Q(8X\1Q?^\.N5I-_$ACCQ'%_[PZY
+M6DW\2&./$<7_ +PZY6DW\2&./$<7_O#KE:3?Q(8X\1Q?^\.N5I-_$ACCQ'%_
+M[Q(UE7Y9>2* U=5@752KBHSZUMM3Z9*1(86M!\*DDM!F1F1EL??W#/
+M                              "N/\(M_8K_ 'Z+'    KC\'=]3K'_]
+M:_K26+'                                             /FXUC?6P
+MS#^6]9_2W!#P    #W?^"4^I9;O]+U7]*4+D@
+M            "N/\(M_8K_?HL<   "N/P=WU.L?_ -:_K26+'
+M                 #@G3H-,AO5&I3&(D6.@W'GWW";;;07TJ4I6Q$1?QF/[
+M$EQ9\5F=!DM2(TAM+K+S2R6AQ"BW2I*B[C(R,C(R[C(QP4RLT>M)D+H]5AST
+MQ'U19!QGTNDT\G;B;7PF?"LMRW2?>6Y#N&>W>8QM&N>VKC^,?L>N&F53XJOH
+MW_B4MM_HE=_S5\!GPGW'W'_$.O$OBRJA+;I\"[Z))E.JX&V&:@TMQ:OXB22M
+MS,=U%<HKE770$5B$JJ--$^N$4A!R$M&>Q+-O?B)._P!NVPYF)\&5(DQ(TUAY
+M^&M+<EIMPE+94I)+2E9%WI,TJ2HB/[#(_H,=@          !\W&L;ZV&8?RW
+MK/Z6X(>     >[_P2GU++=_I>J_I2A<D  :/9>;L2Y'NJNV385_T>X*S;)(.
+MK1Z<_P!.40U*4DDJ<3NCBXD+(TDHS(R,C(ABLAZE\"XGN)FT\B93H5#J[K2'
+MSB2'S-;#2SV2X]PD9,(,_H4X:4G_ !B28\B/,CM2XC[;[#Z$N-.MJ)2%H,MR
+M4DR[C(R/<C(1E7]4&GRUKZ+&EPY:MZ#<A/M17(3LG;H7W/\ 1M.N;=&TXK<M
+MD+4E1[EL7>0WNZ[KMNQK;J-WW?6HM)HM(CKE39LI? TPTDMS4H__ //I,S(B
+MW,QK5>SGB2V+!I.4*]?=-AVQ7D1UTJH+4HTSNG1QM$R@B-;BE(W424I,^$C/
+M;8CVR47*./I]"MVYJ==D";2[MDLPZ'*B+-]$]YU*E)0UP$>Y\+;BE?8DFUFK
+M8DJ,MI   =.LP'JK2)U+C5692W9D9V.W.A]'\8BJ6DTDZUTB5HXTF?$GC0I.
+MY%NDRW(X"T62[E.@Y4H-S7Q<=UKMS*%<HL.?7YQRI7Q5A$<FT&K8DI(MU'PH
+M2E!&H]DEN*ZV#D^BO569D?+V1]2%*I[F0:O%55HDV0U:%/0FL/-0XKIG]#)H
+M)EM1I2;1&O@-23(R*\&:+\=Q;B"]\E,1D2'K6MZH5AIE>_"ZY'CK<0@]OL-2
+M2(_^(JE(BY6P?8&(=0]2S?>]S5>YJW;\6]Z35JET](DQJNI#;I18G"2(JF''
+MFS:-KA[D&2M]Q^-:=SP,0NUZO2M2^3Z=D6M):D6)1*<\N'0XBU*)IAB1LV4)
+M;1O)6;JY;G%P']FQ&K:=24?4++KL!ZC-Y)=:<LI":!^U]-:9C-W>;BS6JH\:
+MD\43A.-P&[Q,\)/\1<1I$IXBK]U9$O"5>]>KQMT>B1%6Q3(D22IN)5JDT:?E
+M6H$WN1.MHD-_%F3,CX29D*+N>(Q,X           .G5JS2*#"74ZY58=.AMF
+M1+D2WTLMI,SV(C4HR(MS,B(=M2DH2:UJ)*4EN9F>Q$0ZM*JU*KD!NJ42IQ*A
+M">XNCDQ7DNM+X5&E6RTF9'LHC(]C[C(R'._(8BL.2I3S;++236XXXHDI0DBW
+M,S,^XB(OM'4HU>H=QP_E"WJS!JD7B-'3PY"'V^(OI+B09EOW_0.9%2ISD]RE
+M-U",J:RV3KD8G4FZA!_0HT;[D1_Q[#CAUNC5&9+IU/J\*3+@*)$MAF0A;D=1
+M_03B2/=!G_/L.6'/@U!#CD":Q)0RZXPXIEPEDAU"C2M!F7T*2HC(R^DC(R,=
+M@  !7'^$6_L5_OT6.   !7'X.[ZG6/\ ^M?UI+%C@  &'N^\+6L"VI]XWK7H
+M5%HE+:Z:9.F.DVTRC<B+<S^TS,B(B[S,R(B,S(AJF-=06'\O5.90[ O-J?5(
+M#"9;\!^)(A2DQU*X2>)F0VVM31JV+I$I-.YD6_>0S^0<C6/BJUY-Z9#N6'0J
+M+$4A#DJ4HR(UK/9"$I(C4M:C/8D)(U&?T$8P^/L[8CRE;U5NFR+ZI\ZFT%2T
+MU9QXEQ%TXTHXS.2T^E#C)<!&K=:4EL1G]!&,/C;5'@++MQG:6/,DT^K5<V%R
+MF8O0O,*E,H/93L<WD)*0@OM4T:B+Z=]ADK<U X;NZ_9>,;<OZGSKDA+D-+AH
+M2X1..1SV?;:=4DFGEM&>SB&U*4COXB+8QM=N77;]W,3I5N5%,UFG5"12Y#J&
+MUD@I3"S0\VE2B(E\"R4@S3N1*2I.^Z3(LN            .N]4($9?12)T=I
+M>V_"MU*3V_X&8Y&7V)#9.QWD.H/N)2%$HO\ ]D/R_,B1G&FI,IEI;ZN!I*UD
+MDW%?Q)(_I/\ X#F'&F3'6R<A#[:FB(S-PE$:=B^GO^CN'Y.9#*+\>.4R4;@Z
+M3IN,N#A_CXOHV_G',   "(-6UCVA?6G:_8UXVY K#-)MZJ5:"W,9)Q,>:S"?
+MZ)])'W$M'$9D?V&>X[V!J33:_IAQW0JS":F4^HV'2(DN.Z6Z'F7*>TE:%%]I
+M&DS(_P#B(WT,V[0K1IF:;8MBD1:72:7E^O184**T3;,=E#$,DH0DNXDD7T$.
+M/X02YZ[2,26K9]%IM7J+>0;[HUIU*#2'B9F38+QNNOQ6G5*239O)C]":S41$
+MEQ6Y[;CAP;4K2L;*-5QBO2I;.)+\D6JJJTI5 >B2H]9IK+R6U-G)999,G6W5
+MM<3;B3_?$HE*(MQ"F$[*J6EVV\/5_-&DC%]-3,GTVVI%S0G&9%STRJ23Z)J;
+M*/XL2#2MT^%71/K6@EEN:MC(;M>V#[NQ)?LK,,VFV7-B4Z^IEWTZMP^F*[JY
+M)GDXQ$MT]V^C)E3LEJ.2^F-/1-M_N2>$U%,&G#(F)D'*QE3,ETNXLA2)$RLW
+M,]';=0BHU,W"3-7&<6DD/-,KX&$I;4OHFVVD'MPB>           'S<:QOK8
+M9A_+>L_I;@AX    ![O_  2GU++=_I>J_I2A<D  5RL./'BZ[,H-1F&V4?M?
+M6TKA;222W.74-SV(8C-=1MR!6[[P?@''\6X<KY5B=)=,AU:UP:1&>C?%43:H
+M\LU$VA+)?N45!<3FQ\*")1J.>L4V(UB[&%HXU8J3M0;M6AP:,F6Z6RWRCL(:
+MZ0RW/;?@WVW[M]A6#,-O6SDZF7EHVTWV;&4=QU5R=D6Z'.)VG4%V2^F1)4MU
+MPU*DU)>Q<#"3_<]TFHT)01%C=5>7,;57($G!F1+G52;2L*AIK4YB9&?<.XJR
+MMA2J=&,T(,E,L?-DN&H]E.FP7_H6,OIXMBGYXTN8+N3%F2FZ%=>+:7"B-5!=
+M)^/1F)ATI#$N*_&<4WTI&T^6RD+29'L9*,N(CPN-KFM?$ERTJ.FE7GD=%NE7
+MX]K1:#2FGY4]\YINW%7S:XVVFF/C<DH;*4JXB2EU+9.$\+BV9=]OY M*C7S:
+M<\IU&K\%FHP)!)-/2L.H):%<)[&D]C+<C(C(^X^\9D  =2K/5*/2IC]&A,S*
+M@W'<7$C/OFRV\\23-"%.$E1H2:MB-7"K8CWV/;80'I4L;.6/ZMD)G*5EVQ2Z
+M?>%U5*\6)%*N)R>XR_+4R7Q13:HK1&E*6U'TO%WGL7 7TC5<LXVU=YNLBKZ?
+M+YIF.V+;N">E%2O>GU&0AY5(*2ETFFJ6MI7!*X$I1Q*D*07>>YGWB9;PM"]L
+MBOWOB^Z8-$9QI<5JKI$67'==55#DR&W&I!.)5^YDA+:B-!EW\7TB#J5A#4S>
+MU&QCAC+<&S(=F8SJU+J4^XJ;57I$JYD4S8X310U,)*-QJ0TIXU.*[TGP=Q[#
+M8,O6OK"O.W;]PZW;6,KCMR]$38%-N694GX3E(ITE)HZ.1 )AWXP\RE1\"T.I
+M)1I0I1$>Y"4*G8M[6W@RD8IQU75?*\.E4ZVDUV0LD.Q8Z$-L/STEW\3Z6DK<
+M0GO(W> C/AW,0!DO1U=4R_%MV!:5INTAV-;T.VKFG5-YFIV"Q333TJ8+1-*Z
+M7I22;A&EUHU..+)WB3L+F            JU\)!8]H7'IAN*ZZ[;L&?5[8.&[
+M1YC[1+=@K>J$1#JFC/\ >FI)$DS+OV[A8R\+.M;(%MS;/O6A0ZU1*BE*)<"8
+MV3C+Z4K)9$M)]QEQ)2>W\P@SX/1AF+I#L>-&:2TTR_6FVT)+8DI*KS"(B+["
+M(AJ>N.KUNM9!PAA6+8TV\Z->-6JU3JMN1YB(C56^38K;C#$IY?S4Q2=?2ZZ2
+MB5Q$R1$E1[)/]V-G/$^#+:RK\K8 H^)[JLPJ=*J]NT,XJF*TN8E3=-5%?8;;
+M0Z;KB5-?.;2:%;\1$6YC4--T&%;6LJK5.ZK]HM9O*]L:1:M<$F)4FWF#JKM5
+M?+XG&V49&W'8;890DN\T,I49;J,=*DX2R3IOJ=N55C]KV!<$6%5+3H=:I?3?
+M*5V2YRTO*J5;)QM"2;B,L/3'2-Q[B4VOA4CB))V2TXY P76[38Q_AF^&*\W;
+M$5M4A2TNHDR2=4I1SE&ZE)O$^[TKAOHXD+6I9DHQ+X  "N/\(M_8K_?HL<
+M "N/P=WU.L?_ -:_K26+'   *[:\'::_@8K<6W47;@N*Y*+3+2:@J:2IROG,
+M0Y!)PWMV^B)QK=SC(RX$JV[]A'>-',U4;63;+NJ]%NKN6M65/IEDRK.XRI+A
+M,K8?J:)*7_\ Q'QCN94DS_<N'BX2)1]V]:G4,R\_:9:=7"2JWUWG4Y#R7/\
+M1'46J3(5 ,]^[C)WB-/V[_0([S5B^7EO4[F/$]FU5NE/7K@V(S4Y*3,F2J95
+M*0B&J1P[GWLDI!]QGT?T$?T#$Y!N#-E5R?I@MBZL'4FPIU&O-#+3L>NQYS\F
+M.S37TS$PFXY'T<+H"W7TII5WL)X.XS&TWWA.IX>G6RS;.6)TI;%9K"L>T.13
+MHZ44"546I*JA49,A/[I)8AQI$UU"5DGO-M"E+4I!B1].&:L=5>%;6*K1L2\;
+M8IKUNG5K3EW!%:;1<5+:4TAR8RM#JUFLSD,NK)]+;JBD)<-)\1[3Z
+M     *U:Q<;Z<J385S9UR9ABW+NN:# ;@TPIL3I7Y\U:B:A1"V/<^)YQ"=B[
+MR(U']@WW2OA5C3[@6TL7$EKX]3H?3U5;1$2'*@^HW9)IV[N G%J2G^)*4E]@
+MA#5EC# -(DW5<F1:%,R7D[)$?Y*L:W7DE)G1'&XY(;:IJ$D7Q1E#F[[LGNX3
+M4HU+,^$CV*YZS?\ 1<78QTI2[U)&2[HMR+&NFOHE$;E)I4=EMNHSR=5WF\XH
+M_B["S[U.N])_^-0CO!F)Y.0M"E,QKCY-(EMT.]:I)70*C-<;A5:!%N.6LZ=)
+M=02UI:>;;VXC2LC,D\1*2:AR6["H^+6Y>.,MU*U;$L6%=*;VKU$@SU/4ND$_
+MT?R3;D9:D(Z4W'XST]YMMM*2))()'1O;G="U[IMN]K?@W7:%<A5BC5-HGX<Z
+M$\EUE]!]VZ5)[C[R,C_B,C(^\AE0  &AYNQW<65L=52P+=OURTCK3+D*=-;I
+MK4U3L-UI;;K)(=,B3Q$O]^1\1;=WTCJ8EQC=^,L21L9SLG.UZ92H)4VD5ARC
+ML1U0H[;"6HZ3909H=-O@)6ZCW5OL8UC3WI^O;"5:NRH5O-,B[X5WU257IL)V
+M@1H))JD@VB<D$XVHU;&ADD]'W)+??Z1S7'IRE7QB^78%]94N"JU5NXCN:AW*
+MAIIF;19;<CIHG0ELI"B9_>%Q%\Y!J(]M]RX;!TY5RE7S4<HY6R]5[ZNV307+
+M8@S6X#-(9I=/<63CI1VHY_->6M*5*>-7%\Q))X2+8:_3M)MW5&JVE$RIJ)N:
+M^[0L6J1ZS1J+/IL9F0_+C&9Q7)\U'[I,Z(S)7>2.-1$I?$)?N+'R+HORV+MJ
+M]54Y3[43)DPJ3T/[FJI.HZ)$Q:^+YQM,J?0A/#L1OK49F9)X8UQCI8/'=W6]
+M59.3*G6K<L5-239]"=I[#/R64TS)WI9""XY7"A2FT<1)V)6ZN-6RBGD
+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
+M2X[FN*UZ1\8>?M9R/&J,@F__  Z9+S72_%TKW^<XAI32UEMLDGF^\S,R+8
+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
+M#_V,Q(TKI?E[Y0^,=,M:>';XNUP;<&^^Y[[_ &"W(  KC_"+?V*_WZ+'
+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
+M2F-\3;:.B0ZI)&EHNCXB1MW*6L_M&[ *X_PBW]BO]^BQP   *X_!W?4ZQ_\
+MUK^M)8L<          /XI*5I-"TDI*BV,C+<C(=;Y*I?W;%_Z*?\ ^2J7]VQ
+M?^BG_ /DJE_=L7_HI_P#Y*I?W;%_Z*?\ ^2J7]VQ?^BG_ /DJE_=L7_HI_P#
+MY*I?W;%_Z*?\ ^2J7]VQ?^BG_ /DJE_=L7_HI_P'9(B(MB+8B']
+M         %?<X:$=-VHB]_VP\IVI4*A6_B;4'IF*M(C)Z%LU&@N!M1)W^<??
+ML(^[)S1/R_K'B&9Y@=DYHGY?UCQ#,\P.R<T3\OZQXAF>8'9.:)^7]8\0S/,#
+MLG-$_+^L>(9GF!V3FB?E_6/$,SS [)S1/R_K'B&9Y@=DYHGY?UCQ#,\P3+I\
+MTJ87TP,5R/AZ@3*8BXEQUU I%0>E=(;!.$WMTBCX=NE7]'T[_P PEX
+M                    !YP_#<?ZE,??E2Y^B.#QU     6V^"J^O%8?_+5C
+M]621[Y           *X_PBW]BO\ ?HL<   "N/P=WU.L?_UK^M)8L<
+M
+M    /.'X;C_4IC[\J7/T1P>.H    "VWP57UXK#_ .6K'ZLDCWR
+M  5Q_A%O[%?[]%C@   5Q^#N^IUC_P#K7]:2Q8X
+M                                                 ></PW'^I3'W
+MY4N?HC@\=0    %MO@JOKQ6'_P M6/U9)'OD           KC_"+?V*_WZ+'
+M    KC\'=]3K'_\ 6OZTEBQP
+M                                  HC\+=B#)^8L3631\6V+6+HFP+B
+M7)DL4V,;RVFCC.)):B+Z"W,BW_G'EMU'=7OX=;Y]E.!U'=7OX=;Y]E.!U'=7
+MOX=;Y]E.!U'=7OX=;Y]E.!U'=7OX=;Y]E.!U'=7OX=;Y]E.!U'=7OX=;Y]E.
+M!U'=7OX=;Y]E."R_P<>EG47C/5Y9MY7_ (:NJ@4.%'JB9$^= 6TRT;D!]""4
+MH^XMUJ2DOYS(>T           "N/\(M_8K_?HL<   "N/P=WU.L?_P!:_K26
+M+'
+M                              "N/\(M_8K_ 'Z+'    KC\'=]3K'_]
+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
+M?8;5A#%E*PIB>V,74ATWVJ! 0P])/?BER5;KD2%;_P#J<>4XX?\ .LQO
+M KQK!U%5+"-*MBU[<ELTBMWU*DQ6;AFTR1.@T&*PA"GY;C+"%K>=+I6TM-;$
+ME2U[J,DH5O"];LS&.1='.5+)TU5ZLY N\I-/N>OU&IP9;52K]39F,R]UF^TC
+MC4XB$MM#;9&E!<*2+<^_;*UEBUM5F;,(4_$;55GQ++K,F[[IEOTN1%3121!=
+M99B/J=0DNG<>?X>C29F1-J4?<6X[-V9>Q]#^$#M./)K;R50;+J5K2%%3Y*D-
+MU254(*V(YK)OAW6E*CXM^$MCW,A'^I2A8:O;4U=$76))KEOVK2+=AP\?3:?$
+ME1V9Z)+2CJ*U3(K:EN/(>X4)C+7P<)[]&OC,Q/NAQV[#T]4F!<L"7'@4R?/I
+M]LNS:8FG2I=!:?4F!(?C)2@FEK9))[<"=RV5L?%N<^@   "H.JW4<W R4QIZ
+M_9_4,;T5VFMU&YKNBTF7+G*8=4:4P*;T++B6WUI(S7(5W-),N C7]&'O9.+[
+M7L3 .8<#T:;.QAB6ZWVJ@U!IDLWHE.DQ7XLB:IEQLGW>C==)QQ7":E<2U]_>
+M8W'$5R4[.FK^N9TL!$N78MO8^9LYBM.PW8[%2J#]0^-NE'Z5*3<0TAMM*E$6
+MQ*<V&*TSY?Q[=FJ[/'R#6WI!7=,H$JBJ53Y+29C42D-M2%)4XVDBX'$FD^(R
+M,S+NW$6:AZ-BUE&4<0X7RCE%V[+VF36G<7T>(XW E5J87"Y)4\Y$XV89J7TS
+MQHD)9625EOL9I.\^,+0/'V-;3L%4@I!VU0X%'-XOH<^+QT-<1;_Q\&XV8
+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
+M''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"QQX
+M5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%8/
+ME!U:].G(+''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0=
+M6O3IR"QQX5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"QQX5@^4'5KT
+MZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%8/E!U:].G(
+M+''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"QQ
+MX5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%8
+M/E!U:].G(+''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0
+M=6O3IR"QQX5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"QQX5@^4'5K
+MTZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%8/E!U:].G
+M(+''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"Q
+MQX5@^4'5KTZ<@L<>%8/E!U:].G(+''A6#Y0=6O3IR"QQX5@^4'5KTZ<@L<>%
+M8/E!U:].G(+''A6#Y0=6O3IR"QQX5@^4,Y:6)L5V!.>JEB8SM2W)LADX[LBD
+M4:-#=<:,R5P*6TA)FG=*3V,]MR(_L&U@
+M
+M
+M
+M
+..               __]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
