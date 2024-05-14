@@ -16,4 +16,11 @@ ollama list
 # page on prompt engineering
 https://www.promptingguide.ai/techniques/cot
 
+# Most valuable items in 10-K
 item 1a, item 7, item 7a
+
+# Blog post on nomic-embed-text embedding model:
+https://blog.nomic.ai/posts/nomic-embed-text-v1
+
+# LlamaIndex plugins
+https://llamahub.ai
